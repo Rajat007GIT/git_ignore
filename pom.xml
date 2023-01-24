@@ -8,6 +8,7 @@
   <name>01-Maven-App</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+	  Rajat dupare
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
